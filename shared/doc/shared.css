@@ -1,3 +1,7 @@
+@import '../../colors/src/index.css';
+@import '../../radius/src/index.css';
+@import '../../typography/src/index.css';
+
 body {
   font-family: Roboto, sans-serif;
   margin: 0;
